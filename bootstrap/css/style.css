@@ -1,0 +1,67 @@
+#ruy{ 
+	width: 100%;
+	background-image: url("../../ropexproduts.jpg");
+     
+	background-size: cover;
+	background-repeat: no-repeat;
+height: 90vh;
+opacity: 0.9
+
+}
+
+
+a:hover{
+	color: black;
+	background-color: white
+}
+
+.social .fab{
+	 color: white
+	 font-size:14px;
+	 margin-left: 2px;
+	 width: 40px;
+	 height: 40px;
+	 background-color: #af9a6a;
+	 text-align: center;
+	 line-height: 40px;
+	 margin-top: 20px;
+	 cursor: pointer; 
+}
+
+
+
+
+#done{
+	background-image: url("../../cleaning.jpg");
+     
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+body{ 
+	margin: 0px
+	padding: 0px;
+
+}
+
+
+#all{
+ background-color: #af9a6a
+}
+
+#login{
+	
+/*	background-color: #af9a6a;*/
+	height: 500px;
+
+	background-image: url("../../cleaning3.jpg");
+     
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+
+}
+
+
